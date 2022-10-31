@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rupinderjit Kaur</h1>
 <h3 align="center">A passionate student</h3>
 
-- 🌱 I’m currently learning **C, Java Languages, UNIX**
+- 🌱 I’m currently learning **C, Java Language, UNIX**
 
-- 💬 Ask me about **JOKES**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **rupinderjitkaur002001@gmail.com**
 
-- ⚡ Fun fact **sa**
+- ⚡ Fun fact **Wy do Computer Engineers always get confused with Christmas and Halloween? Because 31 OCT = 25 DEC **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
